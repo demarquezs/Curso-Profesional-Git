@@ -13,4 +13,10 @@
 
 ![](https://i.imgur.com/6mClyoI.jpg)
 
+<<<<<<< HEAD
 Probando el Git cherry-pick
+=======
+Probando el Git cherry-pick  y agrego otras pendajadas más porque toca
+
+Y más y más pendejadas
+>>>>>>> AgregadoClaseGitcp
